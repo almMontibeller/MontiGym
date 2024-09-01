@@ -12,4 +12,4 @@ with training:
         st.number_input(f"Carga executada (kg) (somente variáveis) {i}")
         st.checkbox(f"Each side {i}", value=False)
         st.number_input(f"Carga acessório (kg) (fixa pra cada exercicio/instrumento){i}", value=10)
-        st.divider
+        st.divider()
