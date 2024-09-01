@@ -1,0 +1,10 @@
+ID,Grupo muscular 1,Grupo muscular 2,Exercise Name,Time or Rep,Load?,Min load (kg),Lateral?,Description
+1,Core,,"""Levantamento braço e perna deitado de barriga""",rep,FALSE,0,FALSE,blablabla
+2,Core,,Isometria pés e escápula barriga pra baixo,time,FALSE,0,FALSE,BLASJDHA
+3,Alongamento,,Alongamento posterior coxa frente tras,rep,FALSE,0,TRUE,"1 joelho no chao, outra com pe apoiado, peso pra frente, depois pra tras"
+4,Alongamento,,alongamento perna laterial frente tras,rep,FALSE,0,TRUE,"uma ajoelhada e uma esticada pro lado, peso pra frente depois pra tras"
+5,Alongamento,,coxa sentado girando corpo,rep,FALSE,0,TRUE,"1 joelho pra frente outro pra tras, abaixa cabeca no chao e levanta jogando braco pro lado"
+6,Pernas,,Quadriceps inclinado,rep,TRUE,0,FALSE,
+7,Pernas,,Agachamento Halter,rep,TRUE,0,FALSE,
+8,Pernas,,Deadlift Barra,rep,TRUE,10,FALSE,
+9,Pernas,Posterior de coxas,Cadeira flexora,rep,TRUE,0,FALSE,
